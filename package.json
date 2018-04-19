@@ -1,0 +1,19 @@
+{
+  "name": "functional-programming-example-with-sanctuary-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "sanctuary": "0.14.1",
+    "sanctuary-def": "0.16.0",
+    "sanctuary-scripts": "1.4.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["sanctuary", "functional-programming"]
+}
